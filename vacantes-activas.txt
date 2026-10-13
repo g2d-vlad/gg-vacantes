@@ -22,7 +22,7 @@ Plazas disponibles: 1
 Turno: 12X24
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Mujeres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Álvaro Obregón, Benito Juárez, Coyoacán, Magdalena Contreras y Cuajimalpa (CDMX).
 Teléfono de contacto: 55 4384 0018
 
@@ -32,7 +32,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Cuahutémoc, Benito Juárez, Iztacalco, Gustavo A. Madero (CDMX) y Nezahualcóyotl (Edomex).
 Teléfono de contacto: 55 4384 0018
 
@@ -42,7 +42,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Cuahutémoc, Benito Juárez, Venustiano Carranza, Gustavo A. Madero (CDMX) y Nezahualcóyotl (Edomex).
 Teléfono de contacto: 55 4384 0018
 
@@ -52,7 +52,7 @@ Plazas disponibles: 1
 Turno: 8X16
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Miguel Hidalgo, Cuauhtémoc, Azcapotzalco y Álvaro Obregón (CDMX). Naucalpan (Edomex).
 Teléfono de contacto: 55 4384 0018
 
@@ -62,7 +62,7 @@ Plazas disponibles: 1
 Turno: 12X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Gustavo A. Madero, Azcapotzalco, Cuauhtémoc y Venustiano Carranza (CDMX). Ecatepec, Tlalnepantla y Coacalco (Edomex).
 Teléfono de contacto: 55 4384 0018
 
@@ -72,7 +72,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Gustavo A. Madero, Azcapotzalco, Cuauhtémoc y Venustiano Carranza (CDMX). Ecatepec, Tlalnepantla y Coacalco (Edomex).
 Teléfono de contacto: 55 4384 0018
 
@@ -82,7 +82,7 @@ Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Iztacalco, Benito Juárez, Venustiano Carranza, Gustavo A. Madero (CDMX) y Nezahualcóyotl (Edomex).
 Teléfono de contacto: 55 4384 0018
 
@@ -92,7 +92,7 @@ Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Coyoácan, Cuahutémoc, Miguel Hidalgo, Iztacalco, Álvaro Obregón y Iztapalapa (CDMX).
 Teléfono de contacto: 55 4384 0018
 
@@ -102,7 +102,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,000.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Tauro
+
 Zonas de captación: Álvaro Obregón, Miguel Hidalgo, Magdalena Contreras (CDMX) y Naucalpan (Edomex),
 Teléfono de contacto: 55 4384 0018
 
@@ -116,7 +116,7 @@ Plazas disponibles: 3
 Turno: 12X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Tultitlán, Cuautitlán, Cuautitlán Izcalli, Coacalco y Tultepec (Edomex). Gustavo A. Madero y Azcapotzalco (CDMX).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -126,7 +126,7 @@ Plazas disponibles: 2
 Turno: 12X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Tlalnepantla, Naucalpan, Atizapán de Zaragoza y Cuautitlán Izcalli (Edomex). Azcapotzalco y Gustavo A. Madero (CDMX).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -136,7 +136,7 @@ Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Tultitlán, Cuautitlán, Cuautitlán Izcalli, Coacalco y Tultepec (Edomex). Gustavo A. Madero y Azcapotzalco (CDMX).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -146,7 +146,7 @@ Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Hombres Y Mujeres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Tultitlán, Cuautitlán, Cuautitlán Izcalli, Coacalco y Tultepec (Edomex). Gustavo A. Madero y Azcapotzalco (CDMX).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -156,7 +156,7 @@ Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Hombres Y Mujeres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Tultitlán, Cuautitlán, Cuautitlán Izcalli, Coacalco y Tultepec (Edomex). Gustavo A. Madero y Azcapotzalco (CDMX).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -166,7 +166,7 @@ Plazas disponibles: 2
 Turno: 24X24
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Cuautitlán Izcalli, Cuautitlán, Tultitlán, Tepotzotlán y Nicolás Romero (Edomex).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -176,7 +176,7 @@ Plazas disponibles: 2
 Turno: 24X24
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Mujeres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Cuautitlán Izcalli, Cuautitlán, Tultitlán, Tepotzotlán y Nicolás Romero (Edomex).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -186,7 +186,7 @@ Plazas disponibles: 2
 Turno: 8X16
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Cuautitlán, Cuautitlán Izcalli, Tultitlán, Teoloyucan y Coacalco (Edomex).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -196,7 +196,7 @@ Plazas disponibles: 1
 Turno: 12X24
 Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Cuautitlán, Cuautitlán Izcalli, Tultitlán, Teoloyucan y Coacalco (Edomex).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -206,7 +206,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,000.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Base Norte
+
 Zonas de captación: Miguel Hidalgo, Cuauhtémoc, Gustavo A. Madero (CDMX) y Tlanepantla (Edomex).
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -216,7 +216,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Toluca
+
 Zonas de captación: Lerma, Toluca, Ocoyoacac y Xonacatlán (Edomex).
 Teléfono de contacto: 55 2891 6840
 
@@ -230,7 +230,7 @@ Plazas disponibles: 4
 Turno: 12X24
 Sueldo quincenal desde: 6,000.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Querétaro
+
 Zonas de captación: Santa Rosa Jáuregui, Col. Corea, Hacienda de Santa Rosa, Juriquilla y El Marqués (Querétaro).
 Teléfono de contacto: 595 124 7365 O 595 124 7499
 
@@ -244,7 +244,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,000.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: León
+
 Zonas de captación: Unión de San Antonio (Jalisco) y Purísima del Rincón (Guanajuato).
 Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 
@@ -254,7 +254,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,000.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: León
+
 Zonas de captación: León, Silao, San Francisco del Rincón y Purísima del Rincón (Guanajuato).
 Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 
@@ -268,7 +268,7 @@ Plazas disponibles: 2
 Turno: 24X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Guadalajara
+
 Zonas de captación: Zona metropolitana de Guadalajara: Tlajomulco de Zúñiga, Tlaquepaque y Guadalajara (Jalisco).
 Teléfono de contacto: 55 2858 7489 o 55 9911 1057
 
@@ -278,7 +278,7 @@ Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 6,250.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Guadalajara
+
 Zonas de captación: Tlajomulco de Zúñiga, Zapopan (zona sur de Guadalajara), Tlaquepaque y El Salto (Jalisco).
 Teléfono de contacto: 55 2858 7489 o 55 9911 1057
 
@@ -288,7 +288,7 @@ Plazas disponibles: 4
 Turno: 24X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Guadalajara
+
 Zonas de captación: Zona metropolitana de Guadalajara: Guadalajara, Zapopan y Tonalá (Jalisco).
 Teléfono de contacto: 55 2858 7489 o 55 9911 1057
 
@@ -302,7 +302,7 @@ Plazas disponibles: 2
 Turno: 24X24
 Sueldo quincenal desde: 6,000.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Cd Sahagun
+
 Zonas de captación: Tepeapulco / Ciudad Sahagún, Zempoala, Singuilucan, Tlanalapa, Emiliano Zapata y Apan (Hidalgo).
 Teléfono de contacto: 55 8012 8826
 
@@ -316,7 +316,7 @@ Plazas disponibles: 7
 Turno: 12X24
 Sueldo quincenal desde: 4,600.00 pesos
 Perfil: Hombres De 18 A 48 años
-Base operativa: Morelos
+
 Zonas de captación: Cuernavaca, Temixco, Jiutepec, Xochitepec y Emiliano Zapata (Morelos).
 Teléfono de contacto: 55 4181 9981
 
@@ -326,7 +326,7 @@ Plazas disponibles: 1
 Turno: 24X24
 Sueldo quincenal desde: 5,000.00 pesos
 Perfil: Hombres De 18 A 55 años
-Base operativa: Morelos
+
 Zonas de captación: Emiliano Zapata, Xochitepec, Temixco y Cuernavaca (Morelos).
 Teléfono de contacto: 55 4181 9981
 
@@ -340,7 +340,7 @@ Plazas disponibles: 1
 Turno: 12X24
 Sueldo quincenal desde: 5,700.00 pesos
 Perfil: Hombres De 25 A 50 años
-Base operativa: Monterrey
+
 Zonas de captación: Apodaca, General Escobedo, San Nicolás de los Garza y la zona norte de Monterrey/Guadalupe (Nuevo León).
 Teléfono de contacto: 55 8012 8655
 
