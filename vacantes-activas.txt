@@ -12,6 +12,7 @@ Listado vigente al 14 de octubre de 2026. Total: 62 plazas en 29 servicios.
 - Cada región tiene su propio teléfono de contacto. Usar el que corresponde a la zona del candidato.
 - El rango de edad y el perfil de género están indicados en cada vacante.
 - La ubicación de cada vacante es aproximada (colonia, municipio y referencia). La dirección exacta la da el reclutador de la región.
+- Si un estado dice "NO hay vacantes activas", nunca diga que ahí sí hay vacantes.
 
 === CDMX ===
 
@@ -374,9 +375,30 @@ Ubicación: Civac, Jiutepec, Morelo
 
 Teléfono de contacto: 55 4181 9981
 
-=== ESTADOS SIN VACANTES POR AHORA ===
+=== NUEVO LEÓN (MONTERREY) ===
 
-Por ahora no hay vacantes activas en: Nuevo León (Monterrey), Puebla, Toluca (Estado de México), Michoacán (Morelia) y Veracruz. Si el candidato vive ahí, dígale que por el momento no hay vacantes en su zona y muéstrele las más cercanas para que él decida.
+Por ahora NO hay vacantes activas en Nuevo León (Monterrey).
+Si el candidato vive en Nuevo León (Monterrey): dígale con claridad que por el momento no hay vacantes en su zona, que puede llamar al 55 8012 8655 para preguntar si se abre alguna, y muéstrele las vacantes más cercanas de otras zonas para que él decida.
+
+=== PUEBLA ===
+
+Por ahora NO hay vacantes activas en Puebla.
+Si el candidato vive en Puebla: dígale con claridad que por el momento no hay vacantes en su zona y muéstrele las vacantes más cercanas de otras zonas para que él decida.
+
+=== TOLUCA (ESTADO DE MÉXICO) ===
+
+Por ahora NO hay vacantes activas en Toluca (Estado de México).
+Si el candidato vive en Toluca (Estado de México): dígale con claridad que por el momento no hay vacantes en su zona, que puede llamar al 55 2891 6840 para preguntar si se abre alguna, y muéstrele las vacantes más cercanas de otras zonas para que él decida.
+
+=== MICHOACÁN (MORELIA) ===
+
+Por ahora NO hay vacantes activas en Michoacán (Morelia).
+Si el candidato vive en Michoacán (Morelia): dígale con claridad que por el momento no hay vacantes en su zona y muéstrele las vacantes más cercanas de otras zonas para que él decida.
+
+=== VERACRUZ ===
+
+Por ahora NO hay vacantes activas en Veracruz.
+Si el candidato vive en Veracruz: dígale con claridad que por el momento no hay vacantes en su zona y muéstrele las vacantes más cercanas de otras zonas para que él decida.
 
 GG Seguridad Privada · Listado de vacantes activas · Actualizado el 14 de octubre de 2026
 
