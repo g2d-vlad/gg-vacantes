@@ -1,6 +1,6 @@
 VACANTES ACTIVAS — GG SEGURIDAD PRIVADA
 
-Listado vigente al 19 de octubre de 2026. Total: 54 plazas en 32 servicios.
+Listado vigente al 20 de octubre de 2026. Total: 54 plazas en 33 servicios.
 
 === REGLAS GENERALES DE ATENCIÓN ===
 
@@ -17,7 +17,7 @@ Listado vigente al 19 de octubre de 2026. Total: 54 plazas en 32 servicios.
 - Clientes que quieren contratar o cotizar guardias, y proveedores: deles el 55 4384 0018. No les pida ubicación ni datos de candidatura, no les ofrezca vacantes y no les pida que escriban QUIERO APLICAR.
 - Dé como máximo 2 vacantes por mensaje, solo de este listado: las más cercanas a su municipio. Si pide más opciones, dé otras 2.
 - Cada vez que ofrezca vacantes, termine el mensaje con este renglón aparte: "¿Le interesa? Escriba QUIERO APLICAR y le pido sus datos."
-- Si le preguntan dónde hay vacantes, conteste con los estados que sí tienen: CDMX, Estado de México, Guanajuato (plaza León), Querétaro, Jalisco (plaza Guadalajara), Hidalgo (Ciudad Sahagún), Morelos y Toluca (Estado de México). No repita una respuesta que ya dio.
+- Si le preguntan dónde hay vacantes, conteste con los estados que sí tienen: CDMX, Estado de México, Querétaro, Guanajuato (plaza León), Jalisco (plaza Guadalajara), Hidalgo (Ciudad Sahagún), Morelos y Toluca (Estado de México). No repita una respuesta que ya dio.
 - Nunca presente como cercana una vacante de una zona lejana ni invente opciones.
 
 === CDMX ===
@@ -71,39 +71,26 @@ Referencia: Frente a Metro Flores Magon Linea B
 
 Teléfono de contacto: 55 4384 0018
 
-Vacante: Cominux
+Vacante: Cronoline Bodega
 
 Plazas disponibles: 1
-Turno: 24X24
-Sueldo quincenal desde: 5,750.00 pesos
+Turno: 72X72
+Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Masculino 25 a 50 años
-Giro: Oficinas
-Ubicación: San Nicolas Tolentino Iztapalapa
-Referencia: 15 Minutos de Metro Periferico Oriente
+Giro: Bodega
+Referencia: 10 Minutos de Metro Calle 11
 
 Teléfono de contacto: 55 4384 0018
 
-Vacante: DIM I
+Vacante: Gerdau los Reyes
 
 Plazas disponibles: 1
-Turno: 24X24
-Sueldo quincenal desde: 5,250.00 pesos
-Perfil: Masculino 25 a 50 años
-Giro: Obra en construccion
-Ubicación: Bondojito, GAM
-Referencia: A 10 Minutos del Metro Bondojito
-
-Teléfono de contacto: 55 4384 0018
-
-Vacante: Gerdau Ticoman
-
-Plazas disponibles: 2
 Turno: 2X2X2
 Sueldo quincenal desde: 5,500.00 pesos
-Perfil: Sexo indistinto 25 a 50 años
+Perfil: Masculino 25 a 50 años
 Giro: Metalicos
-Ubicación: Ticoman, Gustavo A. Madero, Ciudad de México, CDMX
-Referencia: Cerca de Metro Politecnico
+Ubicación: Generalísimo Morelos, Tepozanes, Los Reyes Acaquilpan, Méx
+Referencia: Cerca de Metro Santa Martha
 
 Teléfono de contacto: 55 4384 0018
 
@@ -154,7 +141,7 @@ Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Indistinto, experiencia en seguridad, 30 a 50 años
 Giro: Zona industrial, Fabricación de Pinturas y Recubrimientos
 Ubicación: Industrial Cuamatla, Cuautitlán Izcalli, Méx
-Referencia: A 10 mnts de la Cruz Roja Mexicana Delegacion Cuautitlan México
+Referencia: A 10 mnts de la Cruz Roja Mexicana Delegacion Cuautitlan México o cerca de los juzgados de Cuautitlan
 
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -201,7 +188,7 @@ Sueldo quincenal desde: 5,300.00 pesos
 Perfil: Masculino, de 25 a 45 años, buena letra para registro
 Giro: Proveedor de insumos para alimentos
 Ubicación: La Mora, Tlalnepantla, Méx
-Referencia: Cerca de restaurante "El Fogón"
+Referencia: Cerca de restaurante "El Fogón" o a espaldas de Coca-Cola
 
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
 
@@ -247,10 +234,73 @@ Turno: 24X24
 Sueldo quincenal desde: 5,300.00 pesos
 Perfil: Masculino
 Giro: Proveedor de insumos para alimentos
-Ubicación: Azcapotzalco
+Ubicación: Angel Zimbrón, Azcapotzalco
 Referencia: Cerca de metro Ferreria
 
 Teléfono de contacto: 55 2736 4441 o 55 4387 3255
+
+=== QUERÉTARO ===
+
+Contacto de reclutamiento para Querétaro: 595 124 7365 o 595 124 7499
+
+Vacante: Bridgestone Calamanga
+
+Plazas disponibles: 2
+Turno: 12X24
+Sueldo quincenal desde: 6,000.00 pesos
+Perfil: Masculino, de 20 a 50 años
+Giro: Fabricación de llantas
+Ubicación: Carretera Queretaro San Luis Potosi, Santa Rosa Jáuregui, Qro
+Referencia: Dentro de Parque Industrial Calamanda
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: Antea
+
+Plazas disponibles: 2
+Turno: 12X12
+Sueldo quincenal desde: 6,000.00 pesos
+Perfil: Mixto, de 20 a 50 años
+Giro: Plaza comercial
+Ubicación: Ejido El Salitre, Delegación Félix Osores Sotomayor, Santiago de Querétaro, Qro
+Referencia: Dentro de Plaza Antea (cerca a Juriquilla)
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: TELO
+
+Plazas disponibles: 1
+Turno: 24X24
+Sueldo quincenal desde: 6,500.00 pesos
+Perfil: Masculino, de 20 a 50 años
+Giro: Planta de transportes
+Ubicación: Anillo Vial II, Cumbres de Conin, Segunda Secc de Conin, Queretaro
+Referencia: Esta Alado Estatua del Conin
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: Outlets Premium
+
+Plazas disponibles: 1
+Turno: 12X12
+Sueldo quincenal desde: 6,000.00 pesos
+Perfil: Mixto, de 20 a 50 años
+Giro: Plaza comercial
+Ubicación: Carretera Cuota, Qro
+Referencia: Sobre Carretera Querétaro - Celaya
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: Reclutador
+
+Plazas disponibles: 1
+Turno: DE 9 AM A 7 PM
+Sueldo quincenal desde: 15,000.00 pesos
+Perfil: Sexo indistinto, de 30 a 50 años
+Giro: Administrativo
+Ubicación: Zona dos extendida, Balaustradas, Santiago de Querétaro, Qro
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
 
 === GUANAJUATO (PLAZA LEÓN) ===
 
@@ -280,17 +330,6 @@ Referencia: Autopista Leon-Aguascalientes
 
 Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 
-Vacante: Asesor de Ventas
-
-Plazas disponibles: 1
-Turno: DE 9 AM A 7 PM
-Sueldo quincenal desde: 15,000.00 pesos
-Perfil: Sexo indistinto, de 22 a 55 años
-Giro: Administrativo
-Referencia: Calle Suiza 114 Colonia Andrade Leon Gto
-
-Teléfono de contacto: 56 6687 9724 o 56 6989 6506
-
 Vacante: RCO — Caseta Encarnacion de Diaz
 
 Plazas disponibles: 1
@@ -303,57 +342,27 @@ Referencia: Autopista Encarncacion de Diaz-Aguascalientes
 
 Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 
-=== QUERÉTARO ===
-
-Contacto de reclutamiento para Querétaro: 595 124 7365 o 595 124 7499
-
-Vacante: Bridgestone Calamanga
-
-Plazas disponibles: 2
-Turno: 12X24
-Sueldo quincenal desde: 6,000.00 pesos
-Perfil: Masculino, de 20 a 50 años
-Giro: Fabricación de llantas
-Ubicación: Carretera Queretaro San Luis Potosi, Santa Rosa Jáuregui, Qro
-Referencia: Dentro de Parque Industrial Calamanda
-
-Teléfono de contacto: 595 124 7365 o 595 124 7499
-
-Vacante: TELO
+Vacante: Asesor de Ventas
 
 Plazas disponibles: 1
-Turno: 24X24
-Sueldo quincenal desde: 6,500.00 pesos
-Perfil: Masculino, de 20 a 50 años
-Giro: Planta de transportes
-Ubicación: Anillo Vial II, Cumbres de Conin, Segunda Secc de Conin, Queretaro
-Referencia: Esta Alado Estatua del Conin
+Turno: DE 9 AM A 7 PM
+Sueldo quincenal desde: 18,000.00 pesos
+Perfil: Sexo indistinto, de 30 a 50 años
+Giro: Administrativo
+Referencia: Calle Suiza 114 Colonia Andrade Leon Gto
 
-Teléfono de contacto: 595 124 7365 o 595 124 7499
+Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 
-Vacante: Outlets Premium
+Vacante: Jefe Administrativo
 
 Plazas disponibles: 1
-Turno: 12X12
-Sueldo quincenal desde: 6,000.00 pesos
-Perfil: Mixto, de 20 a 50 años
-Giro: Plaza comercial
-Ubicación: Carretera Cuota, Qro
-Referencia: Sobre Carretera Querétaro - Celaya
+Turno: DE 9 AM A 7 PM
+Sueldo quincenal desde: 16,600.00 pesos
+Perfil: Sexo femenino, de 30 a 50 años
+Giro: Administrativo
+Referencia: Calle Suiza 114 Colonia Andrade Leon Gto
 
-Teléfono de contacto: 595 124 7365 o 595 124 7499
-
-Vacante: Antea
-
-Plazas disponibles: 2
-Turno: 12X12
-Sueldo quincenal desde: 6,000.00 pesos
-Perfil: Mixto, de 20 a 50 años
-Giro: Plaza comercial
-Ubicación: Ejido El Salitre, Delegación Félix Osores Sotomayor, Santiago de Querétaro, Qro
-Referencia: Dentro de Plaza Antea (cerca a Juriquilla)
-
-Teléfono de contacto: 595 124 7365 o 595 124 7499
+Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 
 === JALISCO (PLAZA GUADALAJARA) ===
 
@@ -450,6 +459,6 @@ Si el candidato vive en Michoacán (Morelia): dígale con claridad que por el mo
 Por ahora NO hay vacantes activas en Veracruz.
 Si el candidato vive en Veracruz: dígale con claridad que por el momento no hay vacantes en su zona ni en zonas cercanas. No le ofrezca vacantes de otros estados como si estuvieran cerca. Si pregunta dónde sí hay, dígale los estados con vacantes y aclárele que quedan lejos de su zona.
 
-GG Seguridad Privada · Listado de vacantes activas · Actualizado el 19 de octubre de 2026 a las 10:27 h
+GG Seguridad Privada · Listado de vacantes activas · Actualizado el 20 de octubre de 2026 a las 09:56 h
 
 Oficina de reclutamiento CDMX: Eje 6 Sur Tintoreto 100, Col. Ciudad de los Deportes, Benito Juárez, CP 03710. Lunes a viernes de 9:00 a 19:00 hrs. Sábados y domingos de 9:00 a 14:00 hrs. Sin cita previa, por orden de llegada.
