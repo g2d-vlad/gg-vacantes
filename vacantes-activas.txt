@@ -1,13 +1,13 @@
 VACANTES ACTIVAS — GG SEGURIDAD PRIVADA
 
-Listado vigente al 21 de octubre de 2026. Total: 47 plazas en 27 servicios.
+Listado vigente al 22 de octubre de 2026. Total: 46 plazas en 26 servicios.
 
 === REGLAS GENERALES DE ATENCIÓN ===
 
 - Los sueldos son QUINCENALES (cada 15 días), no mensuales. La única excepción son las vacantes que dicen SEMANAL: esas se pagan cada semana.
 - NUNCA rechazar a un candidato por distancia. Presentar las vacantes más cercanas a su municipio y dejar que el candidato decida.
 - NUNCA descalificar por un documento faltante. Se orienta al candidato y se le invita a presentarse igual.
-- Documentos indispensables: INE vigente, Constancia de Situación Fiscal y Certificado de secundaria, en original.
+- Documentos indispensables: INE vigente, Constancia de Situación Fiscal y Certificado de secundaria, en original (las copias las saca reclutamiento). Si le falta alguno, puede presentarse igual y comentárselo al reclutador.
 - Se contrata con y sin experiencia. Hay capacitación pagada. Solo algunas vacantes piden experiencia; viene indicado en su perfil.
 - Cada región tiene su propio teléfono de contacto y su oficina de reclutamiento. Usar los que corresponden a la zona del candidato. La cita se agenda, de preferencia, a ese teléfono.
 - El perfil de género está indicado en cada vacante. Edad: la mayoría de las vacantes pide de 25 a 55 años, pero se recibe desde los 18 y a personas mayores en condiciones de trabajar. Nunca descartar a nadie por edad.
@@ -20,21 +20,22 @@ Listado vigente al 21 de octubre de 2026. Total: 47 plazas en 27 servicios.
 - Si le preguntan dónde hay vacantes, conteste con los estados que sí tienen: CDMX, Estado de México, Guanajuato (plaza León), Querétaro, Jalisco (plaza Guadalajara), Hidalgo (Ciudad Sahagún), Morelos y Toluca (Estado de México). No repita una respuesta que ya dio.
 - Nunca presente como cercana una vacante de una zona lejana ni invente opciones.
 - Solo se ofrecen vacantes de guardia. Si alguien pide trabajo de oficina, ventas o administrativo, dele el 55 4384 0018.
+- Por ahora no hay vacantes de supervisor. A quien busque trabajo de supervisor dígale que por ahora no hay y dele el 55 4384 0018.
 
 === CDMX ===
 
 Contacto de reclutamiento para CDMX: 55 4384 0018 o 56 6219 0090
 Oficina de reclutamiento para CDMX: Eje 6 Sur Tintoreto 100, Col. Ciudad de los Deportes, Benito Juárez, CP 03710, Ciudad de México (a dos cuadras del Metro San Antonio)
 
-Vacante: AOC Resinas
+Vacante: Cominux
 
 Plazas disponibles: 1
-Turno: 8X16
-Sueldo quincenal desde: 5,321.54 pesos
-Perfil: Experiencia obligatoria en seguridad industrial, masculino 35 a 50 años, basico en computadora para registros en excel
-Giro: Producción de materiales plásticos
-Ubicación: Parque Industrial Izcalli, Esperanza, Cdad. Nezahualcóyotl, Méx
-Referencia: Frente al Panteon de los Rosales Chimalhuacan (Zonas Cercanas Chimalhuacan, Chalco, Iztapalapa "Santa Martha Acatitla"
+Turno: 24X24
+Sueldo quincenal desde: 5,750.00 pesos
+Perfil: Masculino 25 a 50 años
+Giro: Tubos de acero
+Ubicación: San Nicolas Tolentino Iztapalapa CDMX
+Referencia: A 15 Minutos de Metro Periferico Oriente
 
 Teléfono de contacto: 55 4384 0018 o 56 6219 0090
 
@@ -61,15 +62,15 @@ Referencia: A 10 Minutos de Tren Ligero Periferico Participacion Ciudadana
 
 Teléfono de contacto: 55 4384 0018 o 56 6219 0090
 
-Vacante: Gerdau los Reyes
+Vacante: DIM Vitoria
 
-Plazas disponibles: 1
-Turno: 2X2X2
-Sueldo quincenal desde: 5,500.00 pesos
+Plazas disponibles: 2
+Turno: 24X24
+Sueldo quincenal desde: 5,250.00 pesos
 Perfil: Masculino 25 a 50 años
-Giro: Metalicos
-Ubicación: Generalísimo Morelos, Tepozanes, Los Reyes Acaquilpan, Méx
-Referencia: Cerca de Metro Santa Martha
+Giro: Obra en construccion
+Ubicación: Tres Estrellas, Gustavo A. Madero, Ciudad de México, CDMX
+Referencia: A 10 Minutos de Metro Bondojito
 
 Teléfono de contacto: 55 4384 0018 o 56 6219 0090
 
@@ -77,17 +78,6 @@ Teléfono de contacto: 55 4384 0018 o 56 6219 0090
 
 Contacto de reclutamiento para Estado de México: 55 2736 4441 o 55 2327 8010
 Oficina de reclutamiento para Estado de México: zona norte, Base Norte: Calle Convento de Christi No. 11, Col. Jardines de Santa Mónica, Tlalnepantla; zona oriente (Nezahualcóyotl, Chimalhuacán, Ixtapaluca, Ecatepec): la de CDMX, Eje 6 Sur Tintoreto 100, Col. Ciudad de los Deportes, Benito Juárez
-
-Vacante: A&R Logistica Tultitlan
-
-Plazas disponibles: 1
-Turno: 12X12 nocturno
-Sueldo quincenal desde: 5,250.00 pesos
-Perfil: De preferencia hombre, edad hasta 55 años
-Ubicación: Lázaro Cárdenas, Tultitlán de Mariano Escobedo, Méx
-Referencia: Cerca del Dominos Pizza de la Av. Lopez Portillo
-
-Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
 Vacante: Gerdau Corsa Tultitlan
 
@@ -110,18 +100,6 @@ Perfil: Indistinto, experiencia en seguridad, 30 a 50 años
 Giro: Zona industrial, Fabricación de Pinturas y Recubrimientos
 Ubicación: Industrial Cuamatla, Cuautitlán Izcalli, Méx
 Referencia: A 10 mnts de la Cruz Roja Mexicana Delegacion Cuautitlan México o cerca de los juzgados de Cuautitlan
-
-Teléfono de contacto: 55 2736 4441 o 55 2327 8010
-
-Vacante: Santul Planta Femenil
-
-Plazas disponibles: 2
-Turno: 24X24
-Sueldo quincenal desde: 5,250.00 pesos
-Perfil: Mujeres, edad a partir de 30 años
-Giro: Zona industrial
-Ubicación: San Lorenzo Rio Tenco, Cuautitlán Izcalli, Méx
-Referencia: Cerca del Hospital San Rafael
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -160,18 +138,6 @@ Referencia: Cerca de restaurante "El Fogón" o a espaldas de Coca-Cola
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
-Vacante: Gerdau Corsa la Presa
-
-Plazas disponibles: 1
-Turno: 12X24
-Sueldo quincenal desde: 5,500.00 pesos
-Perfil: Sexo indistinto (ofrecemos comedor gratuito)
-Giro: Emresa de aceros
-Ubicación: Industrial la Presa, Tlalnepantla, Méx
-Referencia: Entre Parque "Cri-Cri" y Deportivo las Granjas -Tlanepantla
-
-Teléfono de contacto: 55 2736 4441 o 55 2327 8010
-
 Vacante: Medistik
 
 Plazas disponibles: 3
@@ -195,7 +161,7 @@ Referencia: (cerca de la FES Cuautitlán)
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
-Vacante: Ferbera Corporativo
+Vacante: Ferbera Corporativo — Angel Zimbrón
 
 Plazas disponibles: 1
 Turno: 24X24
@@ -204,6 +170,30 @@ Perfil: Masculino
 Giro: Proveedor de insumos para alimentos
 Ubicación: Angel Zimbrón, Azcapotzalco
 Referencia: Cerca de metro Ferreria
+
+Teléfono de contacto: 55 2736 4441 o 55 2327 8010
+
+Vacante: Evonick Ecatepec
+
+Plazas disponibles: 1
+Turno: 24X24
+Sueldo quincenal desde: 5,250.00 pesos
+Perfil: Solo masculino 25 a 50 años
+Giro: Oficinas
+Ubicación: Industrial, Ecatepec de Morelos, Méx
+Referencia: A 5 Minutos de Mexibus Clinica 93
+
+Teléfono de contacto: 55 2736 4441 o 55 2327 8010
+
+Vacante: Ferbera Corporativo — Ángel Zimbrón
+
+Plazas disponibles: 1
+Turno: 24X24
+Sueldo quincenal desde: 5,300.00 pesos
+Perfil: Masculino 25 a 50 años
+Giro: Industrial
+Ubicación: Ángel Zimbrón, Azcapotzalco, CDMX
+Referencia: A 9 Minutos de Metro Refineria
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -404,6 +394,6 @@ Por ahora NO hay vacantes activas en Veracruz.
 Oficina de reclutamiento para Veracruz: Av. Ricardo Flores Magón 1005-1063, Col. Ignacio Zaragoza, CP 91910, Veracruz, Ver.
 Si el candidato vive en Veracruz: dígale con claridad que por el momento no hay vacantes en su zona ni en zonas cercanas, que puede llamar al 55 2751 5732 para preguntar si se abre alguna. No le ofrezca vacantes de otros estados como si estuvieran cerca. Si pregunta dónde sí hay, dígale los estados con vacantes y aclárele que quedan lejos de su zona.
 
-GG Seguridad Privada · Listado de vacantes activas · Actualizado el 21 de octubre de 2026 a las 15:19 h
+GG Seguridad Privada · Listado de vacantes activas · Actualizado el 22 de octubre de 2026 a las 11:22 h
 
 Horario de todas las oficinas de reclutamiento: lunes a viernes de 9:00 a 19:00 hrs. Sábados y domingos de 9:00 a 14:00 hrs. De preferencia con cita, que se agenda al teléfono de reclutamiento de la región.
