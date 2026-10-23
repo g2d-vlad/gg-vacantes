@@ -1,6 +1,6 @@
 VACANTES ACTIVAS — GG SEGURIDAD PRIVADA
 
-Listado vigente al 22 de octubre de 2026. Total: 46 plazas en 26 servicios.
+Listado vigente al 23 de octubre de 2026. Total: 49 plazas en 29 servicios.
 
 === REGLAS GENERALES DE ATENCIÓN ===
 
@@ -62,7 +62,7 @@ Referencia: A 10 Minutos de Tren Ligero Periferico Participacion Ciudadana
 
 Teléfono de contacto: 55 4384 0018 o 56 6219 0090
 
-Vacante: DIM Vitoria
+Vacante: DIM Victoria
 
 Plazas disponibles: 2
 Turno: 24X24
@@ -79,7 +79,7 @@ Teléfono de contacto: 55 4384 0018 o 56 6219 0090
 Contacto de reclutamiento para Estado de México: 55 2736 4441 o 55 2327 8010
 Oficina de reclutamiento para Estado de México: zona norte, Base Norte: Calle Convento de Christi No. 11, Col. Jardines de Santa Mónica, Tlalnepantla; zona oriente (Nezahualcóyotl, Chimalhuacán, Ixtapaluca, Ecatepec): la de CDMX, Eje 6 Sur Tintoreto 100, Col. Ciudad de los Deportes, Benito Juárez
 
-Vacante: Gerdau Corsa Tultitlan
+Vacante: Gerdau Tultitlan
 
 Plazas disponibles: 1
 Turno: 12X24
@@ -115,14 +115,25 @@ Referencia: Cerca del Hospital San Rafael
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
-Vacante: Autotek
+Vacante: Autotek — San Lorenzo Rio Tenco (turno 24X24)
 
 Plazas disponibles: 1
 Turno: 24X24
-Sueldo quincenal desde: 5,192.00 pesos
+Sueldo quincenal desde: 5,000.00 pesos
 Perfil: Sexo indistinto
 Ubicación: San Lorenzo Rio Tenco, Cuautitlán Izcalli, Méx
 Referencia: A 15 mnts de la Central Autobuses Tepotzotlan
+
+Teléfono de contacto: 55 2736 4441 o 55 2327 8010
+
+Vacante: Popcase
+
+Plazas disponibles: 1
+Turno: 24X24
+Sueldo quincenal desde: 5,500.00 pesos
+Perfil: Guardia varonil
+Ubicación: San Miguel Xochimanga, Cd López Mateos, Méx
+Referencia: Cerca de Plza Lago
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -135,6 +146,29 @@ Perfil: Masculino, de 25 a 45 años, buena letra para registro
 Giro: Proveedor de insumos para alimentos
 Ubicación: La Mora, Tlalnepantla, Méx
 Referencia: Cerca de restaurante "El Fogón" o a espaldas de Coca-Cola
+
+Teléfono de contacto: 55 2736 4441 o 55 2327 8010
+
+Vacante: Gerdau Corsa la Presa
+
+Plazas disponibles: 1
+Turno: 12X24
+Sueldo quincenal desde: 5,500.00 pesos
+Perfil: Sexo indistinto (ofrecemos comedor gratuito)
+Giro: Emresa de aceros
+Ubicación: Industrial la Presa, Tlalnepantla, Méx
+Referencia: Entre Parque "Cri-Cri" y Deportivo las Granjas -Tlanepantla
+
+Teléfono de contacto: 55 2736 4441 o 55 2327 8010
+
+Vacante: Autotek — San Lorenzo Rio Tenco (turno 24X24)
+
+Plazas disponibles: 1
+Turno: 24X24
+Sueldo quincenal desde: 5,000.00 pesos
+Perfil: Guardia varonil
+Ubicación: San Lorenzo Rio Tenco, Cuautitlán Izcalli, Méx
+Referencia: Cerca de la Bic
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -152,7 +186,7 @@ Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 Vacante: Mexamerik VIM
 
 Plazas disponibles: 2
-Turno: 12X24
+Turno: 24X24
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Guardia razo varonil y femenino
 Giro: Servicios de transporte de carga y logística
@@ -394,6 +428,6 @@ Por ahora NO hay vacantes activas en Veracruz.
 Oficina de reclutamiento para Veracruz: Av. Ricardo Flores Magón 1005-1063, Col. Ignacio Zaragoza, CP 91910, Veracruz, Ver.
 Si el candidato vive en Veracruz: dígale con claridad que por el momento no hay vacantes en su zona ni en zonas cercanas, que puede llamar al 55 2751 5732 para preguntar si se abre alguna. No le ofrezca vacantes de otros estados como si estuvieran cerca. Si pregunta dónde sí hay, dígale los estados con vacantes y aclárele que quedan lejos de su zona.
 
-GG Seguridad Privada · Listado de vacantes activas · Actualizado el 22 de octubre de 2026 a las 11:22 h
+GG Seguridad Privada · Listado de vacantes activas · Actualizado el 23 de octubre de 2026 a las 10:19 h
 
 Horario de todas las oficinas de reclutamiento: lunes a viernes de 9:00 a 19:00 hrs. Sábados y domingos de 9:00 a 14:00 hrs. De preferencia con cita, que se agenda al teléfono de reclutamiento de la región.
