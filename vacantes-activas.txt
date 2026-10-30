@@ -1,6 +1,6 @@
 VACANTES ACTIVAS — GG SEGURIDAD PRIVADA
 
-Listado vigente al 29 de octubre de 2026. Total: 46 plazas en 25 servicios.
+Listado vigente al 30 de octubre de 2026. Total: 45 plazas en 25 servicios.
 
 === REGLAS GENERALES DE ATENCIÓN ===
 
@@ -17,7 +17,7 @@ Listado vigente al 29 de octubre de 2026. Total: 46 plazas en 25 servicios.
 - Quien no busca trabajo de guardia (clientes, proveedores, empleados o ex empleados): dele el teléfono de su área según Contactos Regionales (cotizar o contratar guardias: 56 4158 7590). No les pida ubicación ni datos de candidatura, no les ofrezca vacantes y no les pida que escriban QUIERO APLICAR.
 - Dé como máximo 2 vacantes por mensaje, solo de este listado: las más cercanas a su municipio. Si pide más opciones, dé otras 2.
 - Cada vez que ofrezca vacantes, termine el mensaje con este renglón aparte: "¿Le interesa? Escriba QUIERO APLICAR y le pido sus datos."
-- Si le preguntan dónde hay vacantes, conteste con los estados que sí tienen: CDMX, Estado de México, Guanajuato (plaza León), Querétaro, Jalisco (plaza Guadalajara), Morelos, Hidalgo (Ciudad Sahagún) y Toluca (Estado de México). No repita una respuesta que ya dio.
+- Si le preguntan dónde hay vacantes, conteste con los estados que sí tienen: CDMX, Estado de México, Guanajuato (plaza León), Querétaro, Jalisco (plaza Guadalajara), Morelos, Hidalgo (Ciudad Sahagún), Toluca (Estado de México) y Michoacán (Morelia). No repita una respuesta que ya dio.
 - Nunca presente como cercana una vacante de una zona lejana ni invente opciones.
 - Solo se ofrecen vacantes de guardia. Si alguien pide trabajo de oficina, ventas o administrativo, dele el 55 4384 0018.
 - Por ahora no hay vacantes de supervisor. A quien busque trabajo de supervisor dígale que por ahora no hay y dele el 55 4384 0018.
@@ -93,7 +93,7 @@ Oficina de reclutamiento para Estado de México: zona norte, Base Norte: Calle C
 
 Vacante: Gerdau Tultitlan
 
-Plazas disponibles: 1
+Plazas disponibles: 3
 Turno: 12X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Sexo indistinto (ofrecemos comedor gratuito)
@@ -103,27 +103,15 @@ Referencia: Cerca del Suburbano Tultitlán
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
-Vacante: Gerdau Comodin Tultitlan y la Presa
-
-Plazas disponibles: 1
-Turno: 12X24
-Sueldo quincenal desde: 6,500.00 pesos
-Perfil: Sexo indistinto (ofrecemos comedor gratuito)
-Giro: Emresa de aceros
-Ubicación: Industrial la Presa, Tlalnepantla, Méx
-Referencia: Cerca del Suburbano Tultitlán/ Cerca de Metro Indios Verdes
-
-Teléfono de contacto: 55 2736 4441 o 55 2327 8010
-
 Vacante: Santul CEDIS
 
 Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,250.00 pesos
-Perfil: Ambos sexos, de pref. Femenil en ocasiones hacen registros en la compu
+Perfil: Ambos sexos
 Giro: Zona industrial
 Ubicación: San Lorenzo Rio Tenco, Cuautitlán Izcalli, Méx
-Referencia: Cerca del Hospital San Rafael
+Referencia: En la calle del Hospital San Rafael, a 5 minutos del hospital
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -134,7 +122,7 @@ Turno: 24X24
 Sueldo quincenal desde: 5,000.00 pesos
 Perfil: Sexo indistinto
 Ubicación: San Lorenzo Rio Tenco, Cuautitlán Izcalli, Méx
-Referencia: A 15 mnts de la Central Autobuses Tepotzotlan
+Referencia: A 15 minutos de la Central Autobuses Tepotzotlan
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -145,7 +133,7 @@ Turno: 24X24
 Sueldo quincenal desde: 5,500.00 pesos
 Perfil: Guardia varonil
 Ubicación: San Miguel Xochimanga, Cd López Mateos, Méx
-Referencia: Cerca de Plza Lago
+Referencia: A 10 minutos de plaza lago
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -153,22 +141,33 @@ Vacante: Ferbera CEDIS
 
 Plazas disponibles: 1
 Turno: 24X24
-Sueldo quincenal desde: 5,300.00 pesos
+Sueldo quincenal desde: 4,750.00 pesos
 Perfil: Masculino, de 25 a 45 años, buena letra para registro
-Giro: Proveedor de insumos para alimentos
 Ubicación: La Mora, Tlalnepantla, Méx
-Referencia: Cerca de restaurante "El Fogón" o a espaldas de Coca-Cola
+Referencia: Sobre la calle de "Coca-Cola" a 10 minutos
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
 Vacante: Medistik
 
-Plazas disponibles: 4
+Plazas disponibles: 1
 Turno: 12X24
-Sueldo quincenal desde: 5,750.00 pesos
+Sueldo quincenal desde: 5,300.00 pesos
 Perfil: Indistinto
-Ubicación: Parque Tlalnepark Logistik
-Referencia: Parque Tlalnepark
+Giro: Proveedor de insumos para alimentos
+Ubicación: Santiaguito, Tultitlán de Mariano Escobedo, Méx
+Referencia: Cerca del Palacio Municipal o la Catedral de Tultitlan
+
+Teléfono de contacto: 55 2736 4441 o 55 2327 8010
+
+Vacante: Fortacero
+
+Plazas disponibles: 3
+Turno: 12X12
+Sueldo quincenal desde: 5,750.00 pesos
+Perfil: Guardia varonil
+Ubicación: Azcapotzalco
+Referencia: Frente alameda norte y technopareque
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -213,18 +212,6 @@ Referencia: Autopista Leon-Aguascalientes
 
 Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 
-Vacante: RCO — Caseta Encarnacion de Diaz
-
-Plazas disponibles: 1
-Turno: 24X24
-Sueldo quincenal desde: 5,000.00 pesos
-Perfil: Masculino, de 22 a 55 años
-Giro: Carretera
-Ubicación: Caseta Encarnacion de Diaz
-Referencia: Autopista Encarncacion de Diaz-Aguascalientes
-
-Teléfono de contacto: 56 6687 9724 o 56 6989 6506
-
 === QUERÉTARO ===
 
 Contacto de reclutamiento para Querétaro: 595 124 7365 o 595 124 7499
@@ -244,7 +231,7 @@ Teléfono de contacto: 595 124 7365 o 595 124 7499
 
 Vacante: Vibracoustic Vesta
 
-Plazas disponibles: 2
+Plazas disponibles: 1
 Turno: 24X48
 Sueldo quincenal desde: 6,150.00 pesos
 Perfil: Mixto, de 20 a 50 años
@@ -256,7 +243,7 @@ Teléfono de contacto: 595 124 7365 o 595 124 7499
 
 Vacante: Outlets Premium
 
-Plazas disponibles: 2
+Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 6,000.00 pesos
 Perfil: Mixto, de 20 a 50 años
@@ -357,6 +344,23 @@ Referencia: Con direccion a Xonacatlan
 
 Teléfono de contacto: 55 2891 6840
 
+=== MICHOACÁN (MORELIA) ===
+
+Contacto de reclutamiento para Michoacán (Morelia): 55 2752 7225
+Oficina de reclutamiento para Michoacán (Morelia): Avenida Morelos Norte 3449, local 109, Plaza Pabellón, frente al Pabellón Don Vasco, Col. La Soledad, Morelia, Mich.
+
+Vacante: RCO
+
+Plazas disponibles: 1
+Turno: 12X12
+Sueldo quincenal desde: 5,300.00 pesos
+Perfil: 18 a 45 años, hombres, vivan cerca de la caseta Panindicuaro
+Giro: Tramo carretero
+Ubicación: Caseta Panindicuaro
+Referencia: Caseta Panindicuaro
+
+Teléfono de contacto: 55 2752 7225
+
 === NUEVO LEÓN (MONTERREY) ===
 
 Por ahora NO hay vacantes activas en Nuevo León (Monterrey).
@@ -369,18 +373,12 @@ Por ahora NO hay vacantes activas en Puebla.
 Oficina de reclutamiento para Puebla: Blvd. San Felipe 84, Villa Posadas, CP 72060, Heroica Puebla de Zaragoza, Pue.
 Si el candidato vive en Puebla: dígale con claridad que por el momento no hay vacantes en su zona, que puede llamar al 55 7972 4465 para preguntar si se abre alguna, y en ese mismo mensaje dele hasta 2 vacantes de la zona más cercana con vacantes (Hidalgo (Ciudad Sahagún) o Morelos), con su teléfono, para que él decida. No le pregunte si quiere verlas: déselas.
 
-=== MICHOACÁN (MORELIA) ===
-
-Por ahora NO hay vacantes activas en Michoacán (Morelia).
-Oficina de reclutamiento para Michoacán (Morelia): Avenida Morelos Norte 3449, local 109, Plaza Pabellón, frente al Pabellón Don Vasco, Col. La Soledad, Morelia, Mich.
-Si el candidato vive en Michoacán (Morelia): dígale con claridad que por el momento no hay vacantes en su zona, que puede llamar al 55 2752 7225 para preguntar si se abre alguna, y en ese mismo mensaje dele hasta 2 vacantes de la zona más cercana con vacantes (Guanajuato (plaza León) o Querétaro), con su teléfono, para que él decida. No le pregunte si quiere verlas: déselas.
-
 === VERACRUZ ===
 
 Por ahora NO hay vacantes activas en Veracruz.
 Oficina de reclutamiento para Veracruz: Av. Ricardo Flores Magón 1005-1063, Col. Ignacio Zaragoza, CP 91910, Veracruz, Ver.
 Si el candidato vive en Veracruz: dígale con claridad que por el momento no hay vacantes en su zona ni en zonas cercanas, que puede llamar al 55 2751 5732 para preguntar si se abre alguna. No le ofrezca vacantes de otros estados como si estuvieran cerca. Si pregunta dónde sí hay, dígale los estados con vacantes y aclárele que quedan lejos de su zona.
 
-GG Seguridad Privada · Listado de vacantes activas · Actualizado el 29 de octubre de 2026 a las 09:15 h
+GG Seguridad Privada · Listado de vacantes activas · Actualizado el 30 de octubre de 2026 a las 10:54 h
 
 Horario de todas las oficinas de reclutamiento: lunes a viernes de 9:00 a 19:00 hrs. Sábados y domingos de 9:00 a 14:00 hrs. De preferencia con cita, que se agenda al teléfono de reclutamiento de la región.
