@@ -1,10 +1,10 @@
 VACANTES ACTIVAS — GG SEGURIDAD PRIVADA
 
-Listado vigente al 4 de noviembre de 2026. Total: 49 plazas en 28 servicios.
+Listado vigente al 5 de noviembre de 2026. Total: 43 plazas en 27 servicios.
 
 === REGLAS GENERALES DE ATENCIÓN ===
 
-- Los sueldos son QUINCENALES (cada 15 días), no mensuales. La única excepción son las vacantes que dicen SEMANAL: esas se pagan cada semana.
+- Todos los sueldos son QUINCENALES (cada 15 días), no mensuales.
 - NUNCA rechazar a un candidato por distancia. Presentar las vacantes más cercanas a su municipio y dejar que el candidato decida.
 - NUNCA descalificar por un documento faltante. Se orienta al candidato y se le invita a presentarse igual.
 - Documentos indispensables: INE vigente, Constancia de Situación Fiscal y Certificado de secundaria, en original (las copias las saca reclutamiento). Si le falta alguno, puede presentarse igual y comentárselo al reclutador.
@@ -103,18 +103,6 @@ Teléfono de contacto: 55 4384 0018 o 56 6219 0090
 Contacto de reclutamiento para Estado de México: 55 2736 4441 o 55 2327 8010
 Oficina de reclutamiento para Estado de México: zona norte, Base Norte: Calle Convento de Christi No. 11, Col. Jardines de Santa Mónica, Tlalnepantla; zona oriente (Nezahualcóyotl, Chimalhuacán, Ixtapaluca, Ecatepec): la de CDMX, Eje 6 Sur Tintoreto 100, Col. Ciudad de los Deportes, Benito Juárez
 
-Vacante: Gerdau Tultitlan
-
-Plazas disponibles: 3
-Turno: 12X24
-Sueldo quincenal desde: 5,500.00 pesos
-Perfil: Sexo indistinto (ofrecemos comedor gratuito)
-Giro: Emresa de aceros
-Ubicación: Edo de Mexico
-Referencia: Cerca del Suburbano Tultitlán
-
-Teléfono de contacto: 55 2736 4441 o 55 2327 8010
-
 Vacante: Santul CEDIS
 
 Plazas disponibles: 1
@@ -162,7 +150,7 @@ Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
 Vacante: Medistik
 
-Plazas disponibles: 1
+Plazas disponibles: 2
 Turno: 12X24
 Sueldo quincenal desde: 5,300.00 pesos
 Perfil: Indistinto
@@ -174,7 +162,7 @@ Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
 Vacante: Fortacero
 
-Plazas disponibles: 3
+Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Guardia varonil
@@ -227,8 +215,8 @@ Teléfono de contacto: 56 6687 9724 o 56 6989 6506
 Vacante: RCO — Casetas Leon-Aguascalientes
 
 Plazas disponibles: 8
-Turno: 24X24
-Sueldo SEMANAL (se paga cada semana, no quincenal): 2,900.00 pesos
+Turno: 24X24 (sueldo semanal)
+Sueldo quincenal desde: 2,900.00 pesos
 Perfil: Sexo indistinto, de 22 a 55 años
 Giro: Carretera
 Ubicación: Casetas Leon-Aguascalientes
@@ -273,7 +261,7 @@ Sueldo quincenal desde: 6,000.00 pesos
 Perfil: Mixto, de 20 a 50 años
 Giro: Plaza comercial
 Ubicación: P.º de la República, Jurica, Santiago de Querétaro, Qro
-Referencia: Jurica
+Referencia: Jurica, Juriquilla
 
 Teléfono de contacto: 595 124 7365 o 595 124 7499
 
@@ -306,27 +294,27 @@ Teléfono de contacto: 595 124 7365 o 595 124 7499
 Contacto de reclutamiento para Jalisco (plaza Guadalajara): 55 2858 7489 o 55 9911 1057
 Oficina de reclutamiento para Jalisco (plaza Guadalajara): Miguel Lerdo de Tejada 2625, Col. Arcos de Vallarta, Guadalajara, Jal.
 
-Vacante: RCO Tepatitlan, Arroyo de Enmedio, Macrolibramiento, Acatic
+Vacante: RCO Tepatitlan, RCO Macroperiferico
 
-Plazas disponibles: 4
+Plazas disponibles: 3
 Turno: 24X24
 Sueldo quincenal desde: 5,800.00 pesos
 Perfil: Indistinto 25 a 50 años
 Giro: RCO casetas
-Ubicación: Caseta de Cobro Tepatitlan, Arroyo de Enmedio y Macrolibramiento (Tonala Jalisco) Carretera Lagos de Moreno Zapotlanejo
-Referencia: Tepatitlan 1 Hora de Guadalajara, Arroyo de Enmedio y Macrolibramiento (Tonala Jalisco, Carretera Lagos de Moreno Zapotlanejo)
+Ubicación: Caseta de Cobro Tepatitlan, Caseta de Cobro Macroperiferico
+Referencia: Tepatitlan 1 Hora de Guadalajara, Macrolibramiento .
 
 Teléfono de contacto: 55 2858 7489 o 55 9911 1057
 
-Vacante: Mexamerik
+Vacante: Gerdau
 
-Plazas disponibles: 2
+Plazas disponibles: 1
 Turno: 12X24
-Sueldo quincenal desde: 6,250.00 pesos
+Sueldo quincenal desde: 7,000.00 pesos
 Perfil: Indistinto 25 a 50 años
-Giro: Logistico
-Ubicación: Av R Michel el Alamo Industrial
-Referencia: Alamo Industrial
+Giro: Chatarrera
+Ubicación: Lomas de Tlaquepaque
+Referencia: Lazaro Cardenas, Lomas de Tlaquepaque
 
 Teléfono de contacto: 55 2858 7489 o 55 9911 1057
 
@@ -415,6 +403,6 @@ Por ahora NO hay vacantes activas en Veracruz.
 Oficina de reclutamiento para Veracruz: Av. Ricardo Flores Magón 1005-1063, Col. Ignacio Zaragoza, CP 91910, Veracruz, Ver.
 Si el candidato vive en Veracruz: dígale con claridad que por el momento no hay vacantes en su zona ni en zonas cercanas, que puede llamar al 55 2751 5732 para preguntar si se abre alguna. No le ofrezca vacantes de otros estados como si estuvieran cerca. Si pregunta dónde sí hay, dígale los estados con vacantes y aclárele que quedan lejos de su zona.
 
-GG Seguridad Privada · Listado de vacantes activas · Actualizado el 4 de noviembre de 2026 a las 09:57 h
+GG Seguridad Privada · Listado de vacantes activas · Actualizado el 5 de noviembre de 2026 a las 09:48 h
 
 Horario de todas las oficinas de reclutamiento: lunes a viernes de 9:00 a 19:00 hrs. Sábados y domingos de 9:00 a 14:00 hrs. De preferencia con cita, que se agenda al teléfono de reclutamiento de la región.
