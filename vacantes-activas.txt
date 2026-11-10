@@ -1,6 +1,6 @@
 VACANTES ACTIVAS — GG SEGURIDAD PRIVADA
 
-Listado vigente al 9 de noviembre de 2026. Total: 45 plazas en 27 servicios.
+Listado vigente al 10 de noviembre de 2026. Total: 50 plazas en 30 servicios.
 
 === REGLAS GENERALES DE ATENCIÓN ===
 
@@ -17,7 +17,7 @@ Listado vigente al 9 de noviembre de 2026. Total: 45 plazas en 27 servicios.
 - Quien no busca trabajo de guardia (clientes, proveedores, empleados o ex empleados): dele el teléfono de su área según Contactos Regionales (cotizar o contratar guardias: 56 4158 7590). No les pida ubicación ni datos de candidatura, no les ofrezca vacantes y no les pida que escriban QUIERO APLICAR.
 - Dé como máximo 2 vacantes por mensaje, solo de este listado: las más cercanas a su municipio. Si pide más opciones, dé otras 2.
 - Cada vez que ofrezca vacantes, termine el mensaje con este renglón aparte: "¿Le interesa? Escriba QUIERO APLICAR y le pido sus datos."
-- Si le preguntan dónde hay vacantes, conteste con los estados que sí tienen: CDMX, Estado de México, Guanajuato (plaza León), Querétaro, Jalisco (plaza Guadalajara), Morelos, Hidalgo (Ciudad Sahagún), Toluca (Estado de México) y Michoacán (Morelia). No repita una respuesta que ya dio.
+- Si le preguntan dónde hay vacantes, conteste con los estados que sí tienen: CDMX, Estado de México, Guanajuato (plaza León), Querétaro, Jalisco (plaza Guadalajara), Morelos, Hidalgo (Ciudad Sahagún) y Toluca (Estado de México). No repita una respuesta que ya dio.
 - Nunca presente como cercana una vacante de una zona lejana ni invente opciones.
 - Solo se ofrecen vacantes de guardia. Si alguien pide trabajo de oficina, ventas o administrativo, dele el 55 4384 0018.
 - Por ahora no hay vacantes de supervisor. A quien busque trabajo de supervisor dígale que por ahora no hay y dele el 55 4384 0018.
@@ -68,7 +68,7 @@ Plazas disponibles: 1
 Turno: 8X16
 Sueldo quincenal desde: 5,300.00 pesos
 Perfil: Solo masculino de 25 a 40
-Giro: CEDIS de resinas
+Giro: Fabricae resinas
 Ubicación: Parque Industrial Izcalli, Esperanza, Cdad. Nezahualcóyotl, Méx
 Referencia: Frente al Panteon de los Rosales
 
@@ -150,7 +150,7 @@ Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
 Vacante: Medistik
 
-Plazas disponibles: 2
+Plazas disponibles: 3
 Turno: 12X24
 Sueldo quincenal desde: 5,300.00 pesos
 Perfil: Indistinto
@@ -166,8 +166,20 @@ Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Guardia varonil
+Giro: CEDIS
 Ubicación: Azcapotzalco
 Referencia: Frente alameda norte y technopareque
+
+Teléfono de contacto: 55 2736 4441 o 55 2327 8010
+
+Vacante: A&R Logistic
+
+Plazas disponibles: 1
+Turno: 12X12
+Sueldo quincenal desde: 5,250.00 pesos
+Perfil: Indistinto
+Ubicación: Lazaro Cardenas, Tultitlan
+Referencia: Cerca del Mesibus "Cartagena"
 
 Teléfono de contacto: 55 2736 4441 o 55 2327 8010
 
@@ -231,7 +243,7 @@ Oficina de reclutamiento para Querétaro: Paseo de los Enamorados 155, Zona Dos 
 
 Vacante: Bridgestone Calamanda
 
-Plazas disponibles: 1
+Plazas disponibles: 2
 Turno: 12X24
 Sueldo quincenal desde: 6,000.00 pesos
 Perfil: Hombres, de 20 a 50 años
@@ -241,33 +253,45 @@ Referencia: Carretera Federal 57, México-Querétaro
 
 Teléfono de contacto: 595 124 7365 o 595 124 7499
 
-Vacante: Veolia
-
-Plazas disponibles: 1
-Turno: 24X24
-Sueldo quincenal desde: 6,000.00 pesos
-Perfil: Mixto, de 20 a 50 años
-Giro: Servicios medioambientales
-Ubicación: Tlacote el Bajo, Qro
-Referencia: Zona de Tlacote el Bajo, Rumbo a Mompani
-
-Teléfono de contacto: 595 124 7365 o 595 124 7499
-
-Vacante: Antea
+Vacante: Impulse
 
 Plazas disponibles: 1
 Turno: 12X12
+Sueldo quincenal desde: 6,500.00 pesos
+Perfil: Hombres, de 20 a 50 años
+Giro: CEDIS de materia prima de tetrapack
+Ubicación: Parque Industrial Finsa Querétaro lll
+Referencia: Dentro del Parque Industrial
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: Mexamerik
+
+Plazas disponibles: 2
+Turno: 12X24
+Sueldo quincenal desde: 6,500.00 pesos
+Perfil: Mixto, de 20 a 50 años
+Giro: Transportes
+Ubicación: San Miguel, La Piedad
+Referencia: Frente a la gasolineria Flash
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: Vibracosutic Vesta
+
+Plazas disponibles: 1
+Turno: 24X48
 Sueldo quincenal desde: 6,000.00 pesos
 Perfil: Mixto, de 20 a 50 años
-Giro: Plaza comercial
-Ubicación: P.º de la República, Jurica, Santiago de Querétaro, Qro
-Referencia: Jurica, Juriquilla
+Giro: Fabricación de autopartes
+Ubicación: Vesta Park, Querétaro, Qro
+Referencia: Municipio de Colon
 
 Teléfono de contacto: 595 124 7365 o 595 124 7499
 
 Vacante: Outlets Premium
 
-Plazas disponibles: 2
+Plazas disponibles: 1
 Turno: 12X12
 Sueldo quincenal desde: 6,000.00 pesos
 Perfil: Mixto, de 20 a 50 años
@@ -277,9 +301,33 @@ Referencia: Sobre Carretera Querétaro - Celaya
 
 Teléfono de contacto: 595 124 7365 o 595 124 7499
 
-Vacante: Mahle
+Vacante: Herdez
 
 Plazas disponibles: 1
+Turno: 8X16
+Sueldo quincenal desde: 5,750.00 pesos
+Perfil: Mixto, de 20 a 50 años
+Giro: Procesamiento y deshidratación de chiles, mezclas molienda
+Ubicación: Villagrán, Gto
+Referencia: Sobre el corredor carretero Villagrán-Celaya
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: Beluga Logistics
+
+Plazas disponibles: 1
+Turno: 24X24
+Sueldo quincenal desde: 6,250.00 pesos
+Perfil: Mixto, de 20 a 50 años
+Giro: Trasporte, logística y alacenamiento
+Ubicación: Querétaro, Querétaro
+Referencia: Ajuchitlan, Colon, Querétaro
+
+Teléfono de contacto: 595 124 7365 o 595 124 7499
+
+Vacante: Mahle
+
+Plazas disponibles: 2
 Turno: 12X24
 Sueldo quincenal desde: 5,750.00 pesos
 Perfil: Mixto, de 20 a 50 años
@@ -368,28 +416,17 @@ Referencia: Con direccion a Xonacatlan
 
 Teléfono de contacto: 55 2891 6840
 
-=== MICHOACÁN (MORELIA) ===
-
-Contacto de reclutamiento para Michoacán (Morelia): 55 2752 7225
-Oficina de reclutamiento para Michoacán (Morelia): Avenida Morelos Norte 3449, local 109, Plaza Pabellón, frente al Pabellón Don Vasco, Col. La Soledad, Morelia, Mich.
-
-Vacante: RCO
-
-Plazas disponibles: 2
-Turno: 12X12
-Sueldo quincenal desde: 5,300.00 pesos
-Perfil: 18 a 45 años, hombres, vivan cerca de la caseta Panindicuaro
-Giro: Tramo carretero
-Ubicación: Caseta Panindicuaro
-Referencia: Caseta Panindicuaro
-
-Teléfono de contacto: 55 2752 7225
-
 === NUEVO LEÓN (MONTERREY) ===
 
 Por ahora NO hay vacantes activas en Nuevo León (Monterrey).
 Oficina de reclutamiento para Nuevo León (Monterrey): Plaza La Juventud, Plan de San Luis 4614, Sin Nombre de Col 35, CP 66480, San Nicolás de los Garza, N.L.
 Si el candidato vive en Nuevo León (Monterrey): dígale con claridad que por el momento no hay vacantes en su zona ni en zonas cercanas, que puede llamar al 55 4384 0018 para preguntar si se abre alguna. No le ofrezca vacantes de otros estados como si estuvieran cerca. Si pregunta dónde sí hay, dígale los estados con vacantes y aclárele que quedan lejos de su zona.
+
+=== MICHOACÁN (MORELIA) ===
+
+Por ahora NO hay vacantes activas en Michoacán (Morelia).
+Oficina de reclutamiento para Michoacán (Morelia): Avenida Morelos Norte 3449, local 109, Plaza Pabellón, frente al Pabellón Don Vasco, Col. La Soledad, Morelia, Mich.
+Si el candidato vive en Michoacán (Morelia): dígale con claridad que por el momento no hay vacantes en su zona, que puede llamar al 55 2752 7225 para preguntar si se abre alguna, y en ese mismo mensaje dele hasta 2 vacantes de la zona más cercana con vacantes (Guanajuato (plaza León) o Querétaro), con su teléfono, para que él decida. No le pregunte si quiere verlas: déselas.
 
 === PUEBLA ===
 
@@ -403,6 +440,6 @@ Por ahora NO hay vacantes activas en Veracruz.
 Oficina de reclutamiento para Veracruz: Av. Ricardo Flores Magón 1005-1063, Col. Ignacio Zaragoza, CP 91910, Veracruz, Ver.
 Si el candidato vive en Veracruz: dígale con claridad que por el momento no hay vacantes en su zona ni en zonas cercanas, que puede llamar al 55 2751 5732 para preguntar si se abre alguna. No le ofrezca vacantes de otros estados como si estuvieran cerca. Si pregunta dónde sí hay, dígale los estados con vacantes y aclárele que quedan lejos de su zona.
 
-GG Seguridad Privada · Listado de vacantes activas · Actualizado el 9 de noviembre de 2026 a las 17:25 h
+GG Seguridad Privada · Listado de vacantes activas · Actualizado el 10 de noviembre de 2026 a las 09:54 h
 
 Horario de todas las oficinas de reclutamiento: lunes a viernes de 9:00 a 19:00 hrs. Sábados y domingos de 9:00 a 14:00 hrs. De preferencia con cita, que se agenda al teléfono de reclutamiento de la región.
